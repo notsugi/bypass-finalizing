@@ -5,3 +5,8 @@
 動作確認できているレコーダーはLCD-A50BHR8のみですが、三菱製なら動くかもしれません。
 
 This script works well only for dvd disc written by MITSUBISHI Blu-Ray recorder.
+
+# usage
+```sh
+./bypass_finalizing.py /dev/sr0
+```
